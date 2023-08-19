@@ -1,0 +1,9 @@
+Customer Churn prediction means knowing which customers are likely to leave or unsubscribe from your service. For 
+many companies, this is an important prediction. This is because acquiring new customers often costs more than retaining 
+existing ones. Once the customers are identified, companies can focus on giving personalized products and services.
+
+Dataset used: Telecom Customer Churn Data
+https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects/blob/master/Churn_Prediction_of_Customers/Tel_Customer_Churn_Dataset.csv
+Tel_Customer_Churn_Dataset
+The dataset has 21 columns like CustomerId, Churn, Payment Method, etc. EDA was performed on the dataset and a 
+corresponding ML model was built
